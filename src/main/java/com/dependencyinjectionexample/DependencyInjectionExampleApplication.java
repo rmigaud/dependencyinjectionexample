@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DependencyinjectionexampleApplication {
+public class DependencyInjectionExampleApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DependencyinjectionexampleApplication.class, args);
+		SpringApplication.run(DependencyInjectionExampleApplication.class, args);
 	}
 
 }
